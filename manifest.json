@@ -1,0 +1,28 @@
+{
+    "bundler": "metro",
+    "output": "single",
+    "favicon": "./icons/favicon.png",
+    "name": "ParkEase",
+    "shortName": "ParkEase",
+    "description": "Find and reserve parking spots effortlessly",
+    "lang": "en",
+    "themeColor": "#3366FF",
+    "backgroundColor": "#FFFFFF",
+    "startUrl": "/login",
+    "display": "standalone",
+    "orientation": "portrait",
+    "homepage": "https://thefenix2000.github.io/park-ease",
+    "icons": [
+      {
+        "src": "./icons/icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "./icons/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
